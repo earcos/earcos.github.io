@@ -1,6 +1,6 @@
 *Hey*, soy **Eduardo Arcos**. Vivo en internet desde 1994. Fundador y Director General de **[Hipertextual](//hipertextual.com)**. Me apasiona la tecnología, los medios de comunicación, la música, la fotografía y [Pixie](//instagram.com/pixiethecollie).
 
-Puedes saber más acerca de mi, leer mi blog. Sígueme en Twitter, Instagram, Facebook o agrégame a LinkedIn.
+Soy muy activo en [Twitter](//twitter.com/earcos) e [Instagram](//instagram.com/earcos) pero de vez en cuando publico cosas en un blog personal. También me puedes seguir en [Facebook](//facebook.com/earcos) o agregarme en [LinkedIn](//linkedin.com/earcos).
 
 ## Newsletter
 
