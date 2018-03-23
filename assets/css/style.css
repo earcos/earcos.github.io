@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+header.menu{
+margin: 0;
+}
+.menu ul {
+  list-style-type: none;
+}
+
+.menu li {
+  text-transform: uppercase;
+  font-size: 0.8em;
+}
