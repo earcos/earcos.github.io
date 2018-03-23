@@ -3,14 +3,14 @@
 
 @import "{{ site.theme }}";
 
-header.menu{
+.menu {
+all: unset;
 margin: 0;
 }
 .menu ul {
-  list-style-type: none;
+  list-style-type: none !important;
 }
-
 .menu li {
-  text-transform: uppercase;
-  font-size: 0.8em;
+  text-transform: uppercase !important;
+  font-size: 0.8em !important;
 }
