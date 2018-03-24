@@ -6,7 +6,7 @@
 
 .revue-form-group { margin: 10px 0; }
 
-.revue-form-field {
+.revue-form-group .revue-form-field {
   font-size: 1.3em;
   border: 1px solid #d9d9d9;
   padding: 0 8px;
@@ -14,6 +14,6 @@
   margin: 0 10px 0 0;
 }
 
-.revue-form-actions {
+.revue-form-group .revue-form-actions {
   font-size: 1.3em;
 }
