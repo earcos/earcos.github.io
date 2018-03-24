@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 
-.revue-form-group { margin: 10px 0; }
+#revue-embed { margin: 10px 0; }
 
-.revue-form-group .revue-form-field {
+#revue-embed {
   font-size: 1.3em;
   border: 1px solid #d9d9d9;
   padding: 0 8px;
@@ -14,6 +14,6 @@
   margin: 0 10px 0 0;
 }
 
-.revue-form-group .revue-form-actions {
+#revue-embed .revue-form-actions {
   font-size: 1.3em;
 }
