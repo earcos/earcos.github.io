@@ -7,12 +7,12 @@
 #revue-embed { margin: 10px 0 20px 0; }
 
 #revue-embed .revue-form-field input {
-  font-size: 1.3em;
+  font-size: 1.3em !important;
   border: 1px solid #d9d9d9;
-  padding: 0 8px;
-  width: 25%;
-  margin: 0 10px 0 0;
-  display: inline;
+  padding: 0 8px !important;
+  width: 25% !important;
+  margin: 0 10px 0 0 !important;
+  display: inline !important;
 }
 
 #revue-embed .revue-form-actions {
