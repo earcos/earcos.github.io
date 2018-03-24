@@ -2,21 +2,19 @@
 
 Nací en diciembre 1 de 1978 en una ciudad sudamericana relativamente pequeña con un nombre raro: *Guayaquil*. Aunque no es la capital del país, es la más grande de Ecuador. Soy parte de una [microgeneración](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/) de nacidos entre 1977 y 1983 que no se termina de identificar con *Generación X* o con los *millenials*.
 
-Aunque es verdad que no nací con tecnología presente, mi primera computadora llegó a casa con apenas 5 o 6 años, con el que empecé a programar poco tiempo después. Fue una niñez atípica, mis tardes las dedicaba a aprender BASIC con mi madre de profesora, quien era programadora en una multinacional estadounidense.
+Aunque es verdad que no nací con tecnología presente, mi primera computadora llegó a casa con apenas 5 o 6 años, con la que empecé a programar poco tiempo después. .
 
 Crecí rodeado de series de TV ochenteras, de *Star Wars*, de *Ghostbusters*, *Disney*, *Robocop*, *E.T.*, electropop, walkmans y diskettes.
 
-También crecí como sobreviviente de un accidente de avión.
+También crecí como un sobreviviente de un accidente de avión.
 
 Mi adolescencia fue noventera, muy llena de música, de tener una banda y horas, casi a diario. De muchas fiestas y umucho **C++**. Reemplacé mi walkman por un discman, las series de TV ochenteras por películas en **HBO**, el electropop por el rock y el grunge. A los *Ghostbusters* por *Jurassic Park*, y a *Robocop* por el *Terminator* que quería proteger a John Connor.
 
-Al cumplir 18 años me fui a **México**. Mi vida cambió paara siempre. Salté a la adultez en un lugar nuevo, en una ciudad de veinte millones de habitantes. Es radicalmente difícil llegar a una ciudad así, a un país tan diverso y tan lleno de contrtastes. Por eso fue tan pero tan muy complicado dejarlo. Mi corazón sigue ahí.
+Al cumplir 18 años me fui a **México**. Salté a la adultez en una ciudad de veinte millones de habitantes. No es fácil llegar a México DF, es inmensa, todo se mueve a una velocidad vertiginosa. Es caótica, ruidosa, pero increíble, llena de gente de un gran corazón. No fue fácil irme.
 
 De hecho he tenido la fortuna de vivir en cuatro países, muy diferentes entre uno y otro. Después de México estuve cuatro años en Amberes, Bélgica. En 2011 me mudé a Madrid donde sigo radicado.
 
-La primera pregunta que reciben la mayoría de las personas suele ser "¿cómo estás?", la primera pregunta que me hacen a mi, siempre, es ""¿de dónde eres?".
-
-**Nunca se que contestar**. Cuatro paises, dos nacionalidades, soy de ningún lado. Y creo que eso es algo muy bueno.
+La primera pregunta que le hacen a la mayoría de personas suele ser "¿cómo estás?". lLa primera pregunta que me hacen a mi, siempre es "¿de dónde eres?". **Nunca se que contestar**. Cuatro paises, dos nacionalidades, soy de ningún lado. .
 
 A finales de 1999 arranqué un blog grupal como un pequeño proyecto del lugar donde trabajaba, tres o cuatro meses más tarde inicié mi blog propio. Ahí descubrí mi pasión por los medios de comunicación.
 
@@ -34,7 +32,7 @@ A lo largo de los años he estado muy involucrado en algunas iniciativas que tie
 
 A veces me entrevistan y me hacen perfiles:
 
-* **El País**: [Quién 'manda' en Twitter entre los empresarios españoles](https://elpais.com/elpais/2015/09/07/media/1441617840_624422.html). Aquí la infografía.
+* **El País**: [Quién 'manda' en Twitter entre los empresarios españoles](https://elpais.com/elpais/2015/09/07/media/1441617840_624422.html). Esta es la [infografía completa](https://elpais.com/infografias/2015/ceos_twitter/CEO_twitter_movil.html).
 * [Entrevista en **Valencia Plaza**](http://epoca1.valenciaplaza.com/ver/143445/el-discurso-de-profesionalizar-un-blog-se-ha-quedado-viejo.html) por Estefanía Pastor.
 * **La Nación** de Argentina me ha entrevistado varias veces, en [2011 lo hizo Pablo Martín Fernández](https://www.lanacion.com.ar/1414036-eduardo-arcos) y en [2009 Gastón Roitberg](https://www.lanacion.com.ar/1117509-eduardo-arcos-o-las-mil-caras-digitales).
 * [En **El Comercio** de Ecuador](http://www.elcomercio.com/actualidad/politica/eduardo-arcos-me-parece-peligroso.html), cuando intenté defender el no registro de "#30S" por parte del gobierno de Rafael Correa. [Este artículo](http://www.elcomercio.com/actualidad/politica/bloguero-eduardo-arcos-se-opone.html) del mismo diario da más contexto.
