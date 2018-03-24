@@ -1,14 +1,14 @@
 #revue-embed { margin: 10px 0 20px 0; }
 
 #revue-embed input.revue-form-field {
-  font-size: 1.5em;
+  font-size: 1.2em;
   border: 1px solid #d9d9d9;
   padding: 0 8px !important;
-  width: 25%;
+  width: 45%;
   margin: 0 10px 0 0;
   display: inline;
 }
 
-#revue-embed .revue-form-actions {
-  font-size: 1.3em;
+#revue-embed input#member_submit {
+  font-size: 1.2em;
 }
