@@ -11,4 +11,5 @@
 9. Celebrate people that are passionate about their work. Become one of them.
 10. Don't be shy about admitting mistakes, and apologizing for them.
 11. Truth and reality are a moving target in variable speed.
-12. Never grow old
+12. Most of the time faster is not better.
+13. Never grow old
