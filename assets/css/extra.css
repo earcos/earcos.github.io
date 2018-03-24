@@ -1,3 +1,5 @@
+a:hover { font-weight: inherit !important; border-bottom: 1px dotted #267CB9; line-height: 1.5;}
+
 #revue-embed { margin: 10px 0 20px 0; }
 
 #revue-embed input.revue-form-field {
