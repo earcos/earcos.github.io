@@ -1,6 +1,6 @@
 # Acerca de Eduardo Arcos
 
-Nací en diciembre 1 de 1978 en una relativamente pequeña ciudad sudamericana con un nombre raro: *Guayaquil*. Aunque no es la capital, es la más grande de Ecuador. Soy parte de una [microgeneración](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/) de nacidos entre 1977 y 1983 que no se termina de identificar con *Generación X* o con los *millenials*.
+Nací en diciembre 1 de 1978 en una ciudad sudamericana relativamente pequeña con un nombre raro: *Guayaquil*. Aunque no es la capital del país, es la más grande de Ecuador. Soy parte de una [microgeneración](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/) de nacidos entre 1977 y 1983 que no se termina de identificar con *Generación X* o con los *millenials*.
 
 Aunque es verdad que no nací con tecnología, mi primer computador lo tuve a los 5 o 6 años, con el que empecé a programar poco tiempo después. Fue una niñez atípica, mis tardes las dedicaba a aprender BASIC con mi madre de profesora, quien trabajaba como programadora.
 
