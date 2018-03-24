@@ -43,7 +43,7 @@ También me suelen pedir opiniones o puntos de vista:
 
 * [Diez años de Twitter: Pasado, presente y futuro](http://www.lavanguardia.com/tecnologia/20160321/40589736988/twitter-10-anos-pasado-presente-futuro.html)
 * [Los 'primeros' de Twitter: cuando la red social era solo "un grupo grande de amigos"](https://www.20minutos.es/noticia/2702776/0/twitter-red-social/decimo-aniversario/primeros-espana/)
-* [Eduardo Arcos: ‘Me parece peligroso patentar un símbolo que es de los ciudadanos’](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/))
+* [Eduardo Arcos: ‘Me parece peligroso patentar un símbolo que es de los ciudadanos’](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/)
 * [El bloguero ecuatoriano Eduardo Arcos explica la censura de Twitter](https://lahora.com.ec/noticia/1101274530/eduardo-arcos-bloguero-ecuatoriano-explica-la-censura-de-twitter)
 * [El registro del #30S es una amenaza a la libertad de expresión](http://www.clasesdeperiodismo.com/2011/12/16/el-registro-del-30s-es-una-amenaza-a-la-libertad-de-expresion/)
 * [Los coletazos de la 'ley Sinde' inflaman la Red](https://elpais.com/cultura/2011/12/07/actualidad/1323212405_850215.html)
