@@ -1,4 +1,4 @@
-#section a:hover { font-weight: inherit !important; text-decoration: underline;}
+section a:hover { font-weight: inherit !important; text-decoration: underline;}
 
 #revue-embed { margin: 10px 0 20px 0; }
 
