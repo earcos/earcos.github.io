@@ -17,11 +17,11 @@ Todos los domingos envío un **[newsletter](/newsletter)** donde cuento qué fue
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/earcos/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
-    <input class="revue-form-field" placeholder="Escribe tu email" type="email" name="member[email]" id="member_email">
+    <input class="revue-form-field" placeholder="Escribe tu email" type="email" name="member[email]" id="member_email"> <input type="submit" value="Suscríbete →" name="member[subscribe]" id="member_submit">
   </div>
 
   <div class="revue-form-actions">
-    <input type="submit" value="Suscríbete →" name="member[subscribe]" id="member_submit">
+
   </div>
   </form>
 </div>
