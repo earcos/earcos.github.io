@@ -9,7 +9,7 @@
   display: inline;
 }
 
-#revue-embed input#member_submit {
+#revue-embed input[type=submit]#member_submit {
   font-size: 1.2em;
   padding: 0.4em !important;
 }
