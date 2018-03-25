@@ -1,5 +1,8 @@
 # Acerca de Eduardo Arcos
 
+![Eduardo Arcos](/assets/img/eduardo-arcos.jpg "Eduardo Arcos")
+
+
 Nací en diciembre 1 de 1978 en una ciudad sudamericana relativamente pequeña con un nombre raro: *Guayaquil*. Aunque no es la capital del país, es la más grande de Ecuador. Soy parte de una [microgeneración](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/) de nacidos entre 1977 y 1983 que no se termina de identificar con *Generación X* o con los *millenials*.
 
 Aunque es verdad que no nací con tecnología presente, mi primera computadora llegó a casa con apenas 5 o 6 años, con la que empecé a programar poco tiempo después. .
@@ -18,7 +21,7 @@ La primera pregunta que le hacen a la mayoría de personas suele ser "¿cómo es
 
 A finales de 1999 arranqué un blog grupal como un pequeño proyecto del lugar donde trabajaba, tres o cuatro meses más tarde inicié mi blog propio. Ahí descubrí mi pasión por los medios de comunicación.
 
-Durante prácticamente dos décadas he hecho cobertura y análisis de la tecnología y el impacto que tiene en la sociedad. Tengo un especial interés por empresas innovadoras y muy enfocadas en la experiencia de usuarios, especialmente en **Apple** en quienes me especializo desde un punto de vista editorial de mi trabajo.
+Durante prácticamente dos décadas he hecho cobertura y análisis de la tecnología y el impacto que tiene en la sociedad. Tengo un especial interés por empresas innovadoras y muy enfocadas en la experiencia de usuarios, especialmente en **[Apple](//hipertextual.com/apple)** en quienes me especializo desde un punto de vista editorial de mi trabajo.
 
 En 2005 fundé **[Hipertextual](//hipertextual.com)** como una startup que pretendía profesionalizar los blogs temáticos. Hoy es un medio de comunicación digital enfocado en tecnología, ciencia y humanidades, con millones de lectores en todo Latinoamérica y España.
 
