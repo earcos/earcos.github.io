@@ -7,6 +7,7 @@ div#revue-embed.featured-box {
   background: #f1f1f1;
   padding: 1.5em;
   border: 1px solid #d1d1d1;
+  text-align: center;
 }
 
 #revue-embed input.revue-form-field {
