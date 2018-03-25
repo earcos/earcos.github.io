@@ -10,7 +10,7 @@ div#revue-embed.featured-box {
   text-align: center;
 }
 
-div#revue-embed.featured-box input.revue-form-field {  border: 1px dotted #a1a1a1; }
+div#revue-embed.featured-box input.revue-form-field {  border: 1px solid #a1a1a1; }
 
 #revue-embed input.revue-form-field {
   font-size: 0.9em;
