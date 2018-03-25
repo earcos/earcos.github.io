@@ -3,7 +3,7 @@
 ![Eduardo Arcos](/assets/img/eduardo-arcos.jpg "Eduardo Arcos")
 
 
-Nací en diciembre 1 de 1978 en una ciudad sudamericana relativamente pequeña con un nombre raro: *Guayaquil*. Aunque no es la capital del país, es la más grande de Ecuador. Soy parte de una [microgeneración](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/) de nacidos entre 1977 y 1983 que no se termina de identificar con *Generación X* o con los *millenials*.
+Nací en diciembre 1 de 1978 en una ciudad sudamericana relativamente pequeña con un nombre raro: *Guayaquil*. Aunque no es la capital del país, es la más grande de Ecuador. Soy parte de una [microgeneración](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/) de nacidos entre 1977 y 1983 que no se termina de identificar con la *Generación X* o con los *millenials*.
 
 Aunque es verdad que no nací con tecnología presente, mi primera computadora llegó a casa con apenas 5 o 6 años, con la que empecé a programar poco tiempo después. .
 
@@ -36,6 +36,7 @@ A lo largo de los años he estado muy involucrado en algunas iniciativas que tie
 A veces me entrevistan y me hacen perfiles:
 
 * **El País**: [Quién 'manda' en Twitter entre los empresarios españoles](https://elpais.com/elpais/2015/09/07/media/1441617840_624422.html). Esta es la [infografía completa](https://elpais.com/infografias/2015/ceos_twitter/CEO_twitter_movil.html).
+* **El Referente**: [Periodistas que hablan sobre emprendedores y startups de España](http://www.elreferente.es/tecnologicos/periodistas-especializados-emprendedores-29782)
 * [Entrevista en **Valencia Plaza**](http://epoca1.valenciaplaza.com/ver/143445/el-discurso-de-profesionalizar-un-blog-se-ha-quedado-viejo.html) por Estefanía Pastor.
 * **La Nación** de Argentina me ha entrevistado varias veces, en [2011 lo hizo Pablo Martín Fernández](https://www.lanacion.com.ar/1414036-eduardo-arcos) y en [2009 Gastón Roitberg](https://www.lanacion.com.ar/1117509-eduardo-arcos-o-las-mil-caras-digitales).
 * [En **El Comercio** de Ecuador](http://www.elcomercio.com/actualidad/politica/eduardo-arcos-me-parece-peligroso.html), cuando intenté defender el no registro de "#30S" por parte del gobierno de Rafael Correa. [Este artículo](http://www.elcomercio.com/actualidad/politica/bloguero-eduardo-arcos-se-opone.html) del mismo diario da más contexto.
