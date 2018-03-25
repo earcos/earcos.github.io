@@ -2,7 +2,7 @@ section a:hover { font-weight: inherit !important; text-decoration: underline;}
 
 #revue-embed { margin: 10px 0 20px 0; }
 
-#revue-embed .featured-box {
+div#revue-embed.featured-box {
   margin: 10px 0 20px 0;
   background: #f1f1f1;
   padding: 0.5em;
