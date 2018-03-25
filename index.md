@@ -19,10 +19,6 @@ Todos los domingos envío un **[newsletter](/newsletter)** donde cuento qué fue
   <div class="revue-form-group">
     <input class="revue-form-field" placeholder="Escribe tu email" type="email" name="member[email]" id="member_email"> <input type="submit" value="Suscríbete →" name="member[subscribe]" id="member_submit">
   </div>
-
-  <div class="revue-form-actions">
-
-  </div>
   </form>
 </div>
 
