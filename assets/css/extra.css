@@ -2,6 +2,13 @@ section a:hover { font-weight: inherit !important; text-decoration: underline;}
 
 #revue-embed { margin: 10px 0 20px 0; }
 
+#revue-embed .featured-box {
+  margin: 10px 0 20px 0;
+  background: #f1f1f1;
+  padding: 0.5em;
+  border: 1px solid #a1a1a1;
+}
+
 #revue-embed input.revue-form-field {
   font-size: 0.9em;
   color: #a1a1a1;
