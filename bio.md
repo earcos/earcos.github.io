@@ -4,7 +4,7 @@
 
 Nací en diciembre 1 de 1978 en una ciudad sudamericana relativamente pequeña con un nombre raro: *Guayaquil*. Aunque no es la capital del país, es la más grande de Ecuador. Soy parte de una [microgeneración](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/) de nacidos entre 1977 y 1983 que no se termina de identificar con *Generación X* o con los *millenials*.
 
-Aunque es verdad que no nací con tecnología presente, mi primera computadora llegó a casa con apenas 5 o 6 años, con el que empecé a programar poco tiempo después. Fue una niñez atípica, mis tardes las dedicaba a aprender BASIC con mi madre de profesora, quien era programadora en una multinacional estadounidense.
+Aunque es verdad que no nací con tecnología presente, mi primera computadora llegó a casa con apenas 5 o 6 años, con la que empecé a programar poco tiempo después gracias a mis padres que apostaron por enseñarme a ser un creador, ayudarme a descubrir las infinitas posibilidades del software y despertar mi creatividad a muy temprana edad.
 
 Crecí rodeado de series de TV ochenteras, de *Star Wars*, de *Ghostbusters*, *Disney*, *Robocop*, *E.T.*, electropop, walkmans, diskettes y como sobreviviente de un accidente de avión.
 
@@ -56,7 +56,7 @@ También me suelen pedir opiniones o puntos de vista:
 * [El registro del #30S es una amenaza a la libertad de expresión](http://www.clasesdeperiodismo.com/2011/12/16/el-registro-del-30s-es-una-amenaza-a-la-libertad-de-expresion/)
 * [Los coletazos de la 'ley Sinde' inflaman la Red](https://elpais.com/cultura/2011/12/07/actualidad/1323212405_850215.html)
 
-<h2 id=colofon">Colofón</h2>
+## Colofón
 
 Esta web está editada a mano con **Atom** usando el *theme* **[Minimal](https://github.com/pages-themes/minimal)** para Jekyll (por fines de simplicidad) hecho por [Steve Smith](https://github.com/orderedlist).
 
