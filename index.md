@@ -14,3 +14,5 @@ Soy muy activo en [Twitter](//twitter.com/earcos) e [Instagram](//instagram.com/
 
 * [Email](mailto:e@arcos.co)
 * [Telegram](https://t.me/earcos)
+
+[Todas las formas de contactarme](/contacto), incluyendo mi llave PGP.
