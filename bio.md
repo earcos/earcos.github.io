@@ -58,6 +58,6 @@ También me suelen pedir opiniones o puntos de vista:
 
 ## Colofón
 
-Esta web está editada a mano con **Atom** usando el *theme* **[Minimal](https://github.com/pages-themes/minimal)** para Jekyll (por fines de simplicidad) hecho por [Steve Smith](https://github.com/orderedlist).
+Esta web está editada a mano con **[Atom](//atom.io)** usando el *theme* **[Minimal](https://github.com/pages-themes/minimal)** para Jekyll (por fines de simplicidad) hecho por [Steve Smith](https://github.com/orderedlist). Mi vida sin [Markdown](https://daringfireball.net/projects/markdown/syntax) no sería igual.
 
 Hospedada en [Github Pages](https://pages.github.com).
