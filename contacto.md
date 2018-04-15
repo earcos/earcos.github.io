@@ -4,7 +4,7 @@ Tems de trabajo, temas personales, o simplemente decir *¡hola!*, estas son las 
 
 * Email: <e@arcos.co>
 * Twitter: [@earcos](//twitter.com/earcos) (mis mensajes directos están abiertos)
-* [LinkedIn](//linkedin.com/earcos) (Parece ser que LinkedIn es cada vez la herramienta elegida para contacto en contexto profesional ¯\\\_(ツ)\_/¯)
+* [LinkedIn](//linkedin.com/in/earcos)
 * Telegram: [@earcos](https://t.me/earcos)
 
 ## Contacto (mucho más) privado y seguro
