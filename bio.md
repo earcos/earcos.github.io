@@ -32,7 +32,9 @@ La música sigue siendo parte fundamental de mi vida, veo más series de TV y pe
 
 A lo largo de los años he estado muy involucrado en algunas iniciativas que tienen relación con la necesidad de cambiar las leyes de derecho de autor por el surgimiento de internet, la importancia de la libertad de expresión en la red, los cambios fundamentales de hacer periodismo con el surgimiento de los contenidos digitales y la cultura libre.
 
-La fotografía es parte importante de mi vida, aunque publico poco de lo que tomo. Algunas de esas imágenes [están en mi Instagram](//instagram.com/earcos). Durante años use cámaras **Canon**, especialmente una **5D Mark II**, pero ahora uso una **Sony A7 II**. Mis objetivos favoritos suelen ser de focal fija.
+La fotografía es parte importante de mi vida, aunque publico poco de lo que tomo. Algunas de esas imágenes [están en mi Instagram](//instagram.com/earcos). Durante años use cámaras **Canon**, especialmente una **5D Mark II**, pero ahora uso una **[Sony A7 III](https://amzn.to/2Sn4a5L)**. Mis objetivos favoritos suelen ser de focal fija pero estoy enamorado del [16-35mm f/2,8 de Sony](https://amzn.to/2JOr2qS).
+
+Todo mi equipo para vídeo y fotografía en mi **[KIT](https://kit.com/earcos/que-uso-para-mis-videos-en-youtube)**.
 
 También me gusta mucho tomar fotos con smartphones y experimentar con los avances tecnológicos de la fotografía móvil, tanto en hardware porque creo que Apple hace el mejor trabajo con cámaras en smartphones con los **iPhones**, como en la posibilidad de hacer manipulación y publicación con software en iOS.
 
