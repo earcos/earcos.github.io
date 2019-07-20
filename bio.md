@@ -20,11 +20,13 @@ La primera pregunta que reciben la mayoría de las personas suele ser "¿cómo e
 
 A finales de 1999 arranqué un blog grupal como un pequeño proyecto del lugar donde trabajaba en México, tres o cuatro meses más tarde inicié un blog propio. Ahí descubrí mi pasión por los medios de comunicación.
 
-Durante prácticamente dos décadas he hecho cobertura y análisis de la tecnología y el impacto que tiene en la sociedad. Tengo un especial interés por empresas innovadoras y muy enfocadas en la experiencia de usuarios, especialmente en **Apple**.
+Durante prácticamente dos décadas he hecho cobertura y análisis de la tecnología y el impacto que tiene en la sociedad. Tengo un especial interés por empresas innovadoras y muy enfocadas en la experiencia de usuarios, especialmente en **Apple** y **Tesla**.
 
 En 2005 fundé **[Hipertextual](//hipertextual.com)** como una startup que pretendía profesionalizar los blogs temáticos. Hoy es un medio de comunicación digital enfocado en tecnología, ciencia y humanidades, con millones de lectores en todo Latinoamérica y España.
 
 Con **Hipertextual** junté dos de mis pasiones: los medios de comunicación y el periodismo con el emprendimiento.
+
+*¡Hey!* ¿Aún con curiosidad? [En este podcast que grabamos Víctor Abarca y yo](https://anchor.fm/victorabarca/episodes/Cmo-vivir-de-lo-que-te-gusta-hacer-y-petarlo-en-Internet-ft--Eduardo-Arcos-e3qj9n) profundizamos bastante en mi vida, mis puntos de vista, filosofía de vida y de trabajo.
 
 ## Además…
 
