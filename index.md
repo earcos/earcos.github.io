@@ -14,7 +14,6 @@ Soy muy activo en [Twitter](//twitter.com/earcos) e [Instagram](//instagram.com/
 
 ## Contacto
 
-* [Email](mailto:e@arcos.co)
-* [Telegram](https://t.me/earcos)
-
-[Todas las formas de contactarme](/contacto), incluyendo mi llave PGP.
+* **Email**: [e@arcos.co](mailto:e@arcos.co)
+* **Dirección postal**: C/ Sebastian Elcano 32, oficina 18, 28012, Madrid - España (Redacción de Hipertextual)
+* **[Otras formas de contacto](/contacto)**, incluyendo mi llave PGP.
