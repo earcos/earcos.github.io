@@ -19,3 +19,14 @@ font-weight: 400;
 font-style: normal;
 text-transform: uppercase !important;
 }
+
+a {
+    color: #0533DA !important;
+    text-decoration: none
+}
+
+a:hover,
+a:focus {
+    color: #069;
+    font-weight: normal !important;
+}
