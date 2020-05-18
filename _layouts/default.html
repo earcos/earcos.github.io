@@ -8,6 +8,7 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/extra.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://use.typekit.net/rin6itm.css">
     
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
@@ -28,7 +29,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+        <a href="{{ site.github.url }}"> <h1 class="title">{{ site.title | default: site.github.repository_name }} 🤖</h1></a>
         <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
 
           <p><a href="/bio">Acerca de…</a></p>
@@ -37,9 +38,6 @@
           <p><a href="https://txt.arcos.co" target="_blank">Blog</a></p>
           <p><a href="https://twitter.com/earcos" target="_blank">Twitter</a></p>
           <p><a href="https://instagram.com/earcos" target="_blank">Instagram</a></p>
-
-        </ul>
-
       </header>
       <section>
 
