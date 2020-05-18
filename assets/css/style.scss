@@ -16,17 +16,18 @@ section a:hover { font-weight: inherit !important; text-decoration: underline;}
 .title {
 font-family: futura-pt, sans-serif !important;
 font-weight: 400;
+color: #0533DA !important;
 font-style: normal;
 text-transform: uppercase !important;
 }
 
 a {
     color: #0533DA !important;
-    text-decoration: none
+    text-decoration: none;
 }
 
 a:hover,
 a:focus {
-    color: #069;
+    color: #05269f !important;
     font-weight: normal !important;
 }
