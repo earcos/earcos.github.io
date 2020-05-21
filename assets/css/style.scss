@@ -25,7 +25,6 @@ font-size: 35px !important;
 .title a {
     color: #0533DA !important;
     text-decoration: none;
-    background: none !important;
 }
 
 .title a:hover,
@@ -47,13 +46,9 @@ a:focus {
 }
 
 header a {
-  color: #FFF;
-  padding: 0.1em;
-  background: #d1d1d1;
+  color: #444;
 }
 
 header a:hover, header a:focus {
-  color: #FFF;
-  padding: 0.1em;
-  background: #a1a1a1;
+  color: #111;
 }
