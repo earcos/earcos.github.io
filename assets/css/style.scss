@@ -22,6 +22,18 @@ text-transform: uppercase !important;
 font-size: 35px !important;
 }
 
+.title a {
+    color: #0533DA !important;
+    text-decoration: none;
+}
+
+title a:hover,
+a:focus {
+    color: #05269f !important;
+    font-weight: normal !important;
+}
+
+
 a {
     color: #0533DA !important;
     text-decoration: none;
@@ -31,4 +43,16 @@ a:hover,
 a:focus {
     color: #05269f !important;
     font-weight: normal !important;
+}
+
+header a {
+  color: #FFF;
+  padding: 0.1em;
+  background: #d1d1d1;
+}
+
+header a:hover, header a:focus {
+  color: #FFF;
+  padding: 0.1em;
+  background: #a1a1a1;
 }
