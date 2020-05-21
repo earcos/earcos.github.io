@@ -46,9 +46,9 @@ a:focus {
 }
 
 header a {
-  color: #444;
+  color: #444 !important;
 }
 
 header a:hover, header a:focus {
-  color: #111;
+  color: #111 !important;
 }
