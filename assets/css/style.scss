@@ -33,6 +33,13 @@ a:focus {
     font-weight: normal !important;
 }
 
+header a {
+  color: #444 !important;
+}
+
+header a:hover, header a:focus {
+  color: #111 !important;
+}
 
 a {
     color: #0533DA !important;
@@ -43,12 +50,4 @@ a:hover,
 a:focus {
     color: #05269f !important;
     font-weight: normal !important;
-}
-
-header a {
-  color: #444 !important;
-}
-
-header a:hover, header a:focus {
-  color: #111 !important;
 }
