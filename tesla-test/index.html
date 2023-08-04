@@ -5,8 +5,6 @@
 </head>
 <body>
 <script type="text/javascript">
-
-
 $addresses = [
 'https://www.tesla.com/es_es/referral/emilio65046',
 'https://www.tesla.com/referral/aitor65788',
@@ -89,14 +87,19 @@ $addresses = [
 'https://www.tesla.com/referral/manuel15008',
 'https://www.tesla.com/referral/jonatan97085'
 ];
-$size = count($addresses);
-$randomIndex = rand(0, $size - 1);
-$randomUrl = $addresses[$randomIndex];
+//$size = count($addresses);
+//$randomIndex = rand(0, $size - 1);
+//$randomUrl = $addresses[$randomIndex];
+
+var randomIndex = Math.floor(Math.random() * addresses.length); 
+window.location.href = addresses[randomIndex]; 
+
 
 // Javascript URL redirection
 //window.location.replace($randomUrl);
-//window.location.href = urls[randomUrl];
-window.location.replace[$randomUrl];
+// window.location.replace($randomUrl);
+
+
 
 </script>
 </body>
