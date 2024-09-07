@@ -2,9 +2,11 @@
 
 ![Eduardo Arcos](/assets/img/eduardo-arcos.jpg "Eduardo Arcos")
 
-Nací en diciembre 1 de 1978 en una ciudad sudamericana relativamente pequeña con un nombre raro: *Guayaquil*. Aunque no es la capital del país, es la más grande de Ecuador. Soy parte de una [microgeneración](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/) de nacidos entre 1977 y 1983 que no se termina de identificar con *Generación X* o con los *millenials*.
 
-Aunque es verdad que no nací con tecnología presente, mi primera computadora llegó a casa con apenas 5 o 6 años, con la que empecé a programar poco tiempo después gracias a mis padres que apostaron por enseñarme a ser un creador, ayudarme a descubrir las infinitas posibilidades del software y despertar mi creatividad a muy temprana edad.
+
+Nací en diciembre 1 de 1978. Soy parte de una microgeneración de personas nacidas entre 1977 y 1983, conocida como [Xennials](https://es.wikipedia.org/wiki/Xennials). 
+
+Aunque es verdad que no nací con tecnología presente, mi primer computadora/ordenador llegó a casa con apenas 5 o 6 años, con la que empecé a programar poco tiempo después gracias a mis padres que apostaron por enseñarme a ser un creador, ayudarme a descubrir las infinitas posibilidades del software y despertar mi creatividad a muy temprana edad.
 
 Crecí rodeado de series de TV ochenteras, de *Star Wars*, de *Ghostbusters*, *Disney*, *Robocop*, *E.T.*, electropop, walkmans, diskettes y como sobreviviente de un accidente de avión.
 
@@ -26,7 +28,6 @@ En 2005 fundé **[Hipertextual](//hipertextual.com)** como una startup que prete
 
 Con **Hipertextual** junté dos de mis pasiones: los medios de comunicación y el periodismo con el emprendimiento.
 
-*¡Hey!* ¿Aún con curiosidad? [En este podcast que grabamos Víctor Abarca y yo](https://anchor.fm/victorabarca/episodes/Cmo-vivir-de-lo-que-te-gusta-hacer-y-petarlo-en-Internet-ft--Eduardo-Arcos-e3qj9n) profundizamos bastante en mi vida, mis puntos de vista, filosofía de vida y de trabajo.
 
 ## Además…
 
