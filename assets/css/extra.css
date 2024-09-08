@@ -1,4 +1,4 @@
-section a:hover { font-weight: inherit !important; text-decoration: underline;}
+section a:hover { font-weight: 400 !important; text-decoration: underline; } 
 
 .title {
 font-family: futura-pt, sans-serif;
