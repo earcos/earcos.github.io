@@ -3,47 +3,14 @@
 ![Eduardo Arcos](/assets/img/eduardo-arcos.jpg "Eduardo Arcos")
 
 
+Eduardo Arcos es un emprendedor, periodista, comunicador y *youtuber*. Conocido por ser el fundador y director general de [Hipertextual](https://hipertextual.com), uno de las principales medios digitales de tecnología, ciencia, cultura digital y entretenimiento en España y Latinoamérica, además de estar al frente del [canal de YouTube](https://youtube.com/hipertextual) del medio. Eduardo Arcos inició su carrera en internet a principios de la década de 2000 y se convirtió en una figura influyente en el ámbito de la tecnología en el mundo hispanohablante. En 2020 inició su carrera como [youtuber](https://youtube.com/earcos) con un proyecto enfocado en la movilidad eléctrica y cómo la adopción de los coches eléctricos está cambiando a la sociedad.
 
-Nací en diciembre 1 de 1978. Soy parte de una microgeneración de personas nacidas entre 1977 y 1983, conocida como [Xennials](https://es.wikipedia.org/wiki/Xennials). 
+Desde sus inicios, Hipertextual se ha destacado por ofrecer análisis, noticias y artículos de opinión sobre temas tecnológicos, ganando una reputación como una fuente confiable de información en estos campos. Eduardo Arcos ha jugado un papel clave en el crecimiento de la plataforma, estableciéndose como una voz autorizada y respetada en la industria de la tecnologica. También se ha posicionado como una de las voces definitivas en el la industria de la movilidad eléctrica y su adopción a nivel global.
 
-Aunque es verdad que no nací con tecnología presente, mi primer computadora/ordenador llegó a casa con apenas 5 o 6 años, con la que empecé a programar poco tiempo después gracias a mis padres que apostaron por enseñarme a ser un creador, ayudarme a descubrir las infinitas posibilidades del software y despertar mi creatividad a muy temprana edad.
+Además de su trabajo en Hipertextual, Arcos ha participado en otros proyectos relacionados con la tecnología y la comunicación digital, y ha sido un defensor de la evolución de los medios y plataformas digitales. Su influencia se extiende a través de redes sociales y conferencias, donde comparte su visión sobre el futuro de la tecnología y su impacto en la sociedad.
 
-Crecí rodeado de series de TV ochenteras, de *Star Wars*, de *Ghostbusters*, *Disney*, *Robocop*, *E.T.*, electropop, walkmans, diskettes y como sobreviviente de un accidente de avión.
-
-Mi adolescencia fue noventera, muy llena de música, de ser parte de una banda y horas de ensayos mezclado con muchas otras horas de **C++**. Reemplacé mi walkman por un discman, las series de TV ochenteras por películas en **HBO**, el electropop por el rock y el grunge. A los *Ghostbusters* por *Jurassic Park*, y a *Robocop* por el *Terminator* que quería proteger a John Connor.
-
-Con 18 años me fui a **México** a estudiar la universidad. Pero un país tan diverso, lleno de contrastes, oportunidades, cambios y gente increíble hizo que me quedara. Durante once años fue mi casa, mi residencia y sigue siendo uno de mis lugares favoritos, donde inicié mi primera empresa, donde descubrí muchas de mis pasiones profesionales y personales.
-
-De hecho he tenido la fortuna de vivir en cuatro países, muy diferentes entre uno y otro. Después de México estuve cuatro años en Amberes, Bélgica y en 2011 me mudé a Madrid donde sigo radicado.
-
-La primera pregunta que reciben la mayoría de las personas suele ser "¿cómo estás?", la primera pregunta que casi siempre recibo es "¿de dónde eres?".
-
-**Nunca se que contestar**. Cuatro paises, dos nacionalidades, la realidad es que *soy de ningún lado*. Y creo que eso es algo muy bueno.
-
-A finales de 1999 arranqué un blog grupal como un pequeño proyecto del lugar donde trabajaba en México, tres o cuatro meses más tarde inicié un blog propio. Ahí descubrí mi pasión por los medios de comunicación.
-
-Durante prácticamente dos décadas he hecho cobertura y análisis de la tecnología y el impacto que tiene en la sociedad. Tengo un especial interés por empresas innovadoras y muy enfocadas en la experiencia de usuarios, especialmente en **Apple** y **Tesla**.
-
-En 2005 fundé **[Hipertextual](//hipertextual.com)** como una startup que pretendía profesionalizar los blogs temáticos. Hoy es un medio de comunicación digital enfocado en tecnología, ciencia y humanidades, con millones de lectores en todo Latinoamérica y España.
-
-Con **Hipertextual** junté dos de mis pasiones: los medios de comunicación y el periodismo con el emprendimiento.
-
-
-## Además…
-
-La música sigue siendo parte fundamental de mi vida, veo más series de TV y películas de las que debería, juego muchos videojuegos. Soy el padre de una perrita maravillosa que se llama [Pixie](//instagram.com/pixiethecollie) a quien adopté. En 2017 inicié un largo pero muy gratificante proceso de dejar de consumir carne.
-
-A lo largo de los años he estado muy involucrado en algunas iniciativas que tienen relación con la necesidad de cambiar las leyes de derecho de autor por el surgimiento de internet, la importancia de la libertad de expresión en la red, los cambios fundamentales de hacer periodismo con el surgimiento de los contenidos digitales y la cultura libre.
-
-La fotografía es parte importante de mi vida, aunque publico poco de lo que tomo. Algunas de esas imágenes [están en mi Instagram](//instagram.com/earcos). Durante años use cámaras **Canon**, especialmente una **5D Mark II**, pero ahora uso una **[Sony A7 III](https://amzn.to/2Sn4a5L)**. Mis objetivos favoritos suelen ser de focal fija pero estoy enamorado del [16-35mm f/2,8 de Sony](https://amzn.to/2JOr2qS).
-
-Todo mi equipo para vídeo y fotografía en mi **[KIT](https://kit.com/earcos/que-uso-para-mis-videos-en-youtube)**.
-
-También me gusta mucho tomar fotos con smartphones y experimentar con los avances tecnológicos de la fotografía móvil, tanto en hardware porque creo que Apple hace el mejor trabajo con cámaras en smartphones con los **iPhones**, como en la posibilidad de hacer manipulación y publicación con software en iOS.
 
 ### Algunas apariciones, entrevistas y menciones en medios
-
-A veces me entrevistan y me hacen perfiles:
 
 * **El País**: [Quién 'manda' en Twitter entre los empresarios españoles](https://elpais.com/elpais/2015/09/07/media/1441617840_624422.html). [Aquí la infografía](https://elpais.com/infografias/2015/ceos_twitter/CEO_twitter_movil.html).
 * **Enterie**: [Top tech european influencers](https://enterie.com/europe-tech-influancers/), european key opinion leaders in technology.
@@ -52,18 +19,9 @@ A veces me entrevistan y me hacen perfiles:
 * [En **El Comercio** de Ecuador](http://www.elcomercio.com/actualidad/politica/eduardo-arcos-me-parece-peligroso.html), cuando intenté defender el no registro de "#30S" por parte del gobierno de Rafael Correa. [Este artículo](http://www.elcomercio.com/actualidad/politica/bloguero-eduardo-arcos-se-opone.html) del mismo diario da más contexto.
 * [Un perfil en la revista **Mundo Diners**](https://marcelanoriega.wordpress.com/2011/01/09/un-blogger-que-se-lleva-el-mundo-por-delante/) hecho cuando tenía 29 años.
 * David Sasaki [explicaba en Global Voices](https://globalvoices.org/2005/07/20/the-state-of-free-culture-in-latin-america/) como algunos luchábamos por la cultura libre en Latinoamérica y España desde hace muchos años atrás.
-
-También me suelen pedir opiniones o puntos de vista:
-
 * [Diez años de Twitter: Pasado, presente y futuro](http://www.lavanguardia.com/tecnologia/20160321/40589736988/twitter-10-anos-pasado-presente-futuro.html)
 * [Los 'primeros' de Twitter: cuando la red social era solo "un grupo grande de amigos"](https://www.20minutos.es/noticia/2702776/0/twitter-red-social/decimo-aniversario/primeros-espana/)
 * [Eduardo Arcos: ‘Me parece peligroso patentar un símbolo que es de los ciudadanos’](https://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/))
 * [El bloguero ecuatoriano Eduardo Arcos explica la censura de Twitter](https://lahora.com.ec/noticia/1101274530/eduardo-arcos-bloguero-ecuatoriano-explica-la-censura-de-twitter)
 * [El registro del #30S es una amenaza a la libertad de expresión](http://www.clasesdeperiodismo.com/2011/12/16/el-registro-del-30s-es-una-amenaza-a-la-libertad-de-expresion/)
 * [Los coletazos de la 'ley Sinde' inflaman la Red](https://elpais.com/cultura/2011/12/07/actualidad/1323212405_850215.html)
-
-## Colofón
-
-Esta web está editada a mano con **[Atom](//atom.io)** usando el *theme* **[Minimal](https://github.com/pages-themes/minimal)** para Jekyll (por fines de simplicidad) hecho por [Steve Smith](https://github.com/orderedlist). Mi vida sin [Markdown](https://daringfireball.net/projects/markdown/syntax) no sería igual.
-
-Hospedada en [Github Pages](https://pages.github.com).

@@ -39,28 +39,30 @@
       </header>
       <section>
 
-        {% if page.slug == /bio %}
-          <!-- test /bio slug -->
-        {% endif %}
-
-        {% if page.url == /bio %}
-          <!-- test /bio url -->
-        {% endif %}
-
         {% if page.slug == bio %}
-          <!-- test bio slug -->
-        {% endif %}
 
-        {% if page.url == bio %}
-          <!-- test bio url -->
-        {% endif %}
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "Person",
+          "name": "Eduardo Arcos",
+          "email": "e@arcos.co",
+          "birthDate": "1978-12-01",
+          "url": "https://arcos.co",
+          "image": "https://arcos.co/assets/img/eduardo-arcos.jpg",
+          "sameAs": [
+            "https://twitter.com/earcos",
+            "https://instagram.com/earcos",
+            "https://youtube.com/earcos",
+            "https://linkedin.com/in/earcos",
+            "https://hipertextual.com/autor/earcos",
+            "https://muckrack.com/earcos",
+            "https://elpais.com/elpais/2015/09/07/media/1441617840_624422.html",
+            
+          ]  
+        }
+        </script>
 
-        {% if page.slug == bio.html %}
-          <!-- test bio.html slug -->
-        {% endif %}
-
-        {% if page.url == bio.html %}
-          <!-- test bio.html url -->
         {% endif %}
 
       {{ content }}
