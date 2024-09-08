@@ -8,7 +8,10 @@ body {
     font-weight: 400
 }
 
-section a:hover { font-weight: normal !important; text-decoration: underline;}
+a:hover, a:focus {
+    color: #069;
+    font-weight:400 !important;
+}
 
 .title {
 font-family: futura-pt, sans-serif !important;
