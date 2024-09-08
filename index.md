@@ -8,4 +8,4 @@ En 2019 inicié mi segundo gran proyecto: un **[canal de YouTube](//youtube.com/
 
 Vivo en **Madrid** y también tengo especial interés en la música, la fotografía y las artes audiovisuales. Más [acerca de mi](/bio).
 
-Soy muy activo en [Twitter](//twitter.com/earcos) e [Instagram](//instagram.com/earcos). A veces publico cosas en mi [blog personal](//txt.arcos.co). También me puedes agregar en [LinkedIn](//linkedin.com/in/earcos).
+Soy muy activo en [Instagram](//instagram.com/earcos). También me puedes agregar en [LinkedIn](//linkedin.com/in/earcos).

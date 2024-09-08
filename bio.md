@@ -1,4 +1,4 @@
-# Acerca de Eduardo Arcos
+# Quién es Eduardo Arcos
 
 ![Eduardo Arcos](/assets/img/eduardo-arcos.jpg "Eduardo Arcos")
 
