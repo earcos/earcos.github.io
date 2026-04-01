@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; URL='https://saily.com/eduardoarcos'" />
+  <title>Surfshark</title>
+</head>
+<body>
+<script type="text/javascript">
+// Javascript URL redirection
+window.location.replace("https://saily.com/eduardoarcos");
+</script>
+</body>
+</html>
